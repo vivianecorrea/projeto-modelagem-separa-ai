@@ -9,33 +9,63 @@ Centro Universitário UNA - Professora: Erica Olivera
 - 2 designers - Richard e João Pedro
 - 2 desenvolvedores -Lucas e Matheus Vaz
 - 1 gerente de projetos - Viviane
-
-🎯 Formatar tabela 
 <table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/david-jacobis/">
-
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79882277?s=400&u=5b89e0ae40e565f9ce16bb76cd526d0e187c0dd7&v=4" width="100px;" alt=""/>
-
-<br />
-<b> David Jacobis </b>
+<tr>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79049718?v=4" width="100px;" alt=""/>
+<br/>
+<b> Erick Sant'ana Araujo </b>
 </td>
- </tr>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117780129?v=4" width="100px;" alt=""/>
+<br/>
+<b> Mateus Agler Clark Silva </b>
+</td>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99853486?v=4" width="100px;" alt=""/>
+<br/>
+<b> Matheus de Andrade Vaz </b>
+</td>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113772814?v=4" width="100px;" alt=""/>
+<br/>
+<b> João Pedro Ferreira Rocha </b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102496835?v=4" width="100px;" alt=""/>
+<br/>
+<b> Lucas Fernando dos Reis </b>
+</td>
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/35472546?v=4" width="100px;" alt=""/>
+<br/>
+<b> Richard Garcia de Souza </b>
+</td>
+
+<td align="center">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82071191?v=44" width="100px;" alt=""/>
+<br/>
+<b> Viviane Corrêa Nunes </b>
+</td>
+</tr>
 </table>
+
 
 ## Cronograma:
 
 ![screenshoot](calendário_atividades.png)
 
 ## Artefatos:
-- Primeira Versão da Proposta ✅
-- Quadro de atividades no Trello ✅ 
-- Roteiro para levantamento de requisitos ✅ 
-- Documento Levantamento de Requisitos ✅ 
-- Histórias de usuário ✅ 
-- Protótipo✅ 
-- Modelo Lógico Banco de dados ✅ 
-- Script SQL criação das tabelas no banco ✅ 
+- Primeira Versão da Proposta 
+- Quadro de atividades no Trello 
+- Roteiro para levantamento de requisitos  
+- Documento Levantamento de Requisitos  
+- Histórias de usuário  
+- Protótipo
+- Modelo Lógico Banco de dados 
+- Script SQL criação das tabelas no banco 
 - Apresentação Final do Trabalho 
 
 ## Visão Geral do 
@@ -48,4 +78,5 @@ Durante a execução utilizamos uma adaptação da metodologia Kanban, utilizand
 
 Após a conclusão de todos os itens, agrupamos os itens em uma ordem lógica, observe no quadro abaixo: <br>
 ![screenshoot](quadro_trello.png) 
-[Visualizar todos os artefatos no quadro do trello](https://trello.com/b/P8pawnV3/separaai) 
+[Visualizar todos os artefatos no quadro do trello](https://trello.com/b/P8pawnV3/separaai) <br>
+[Ver vídeo de demontração](https://drive.google.com/file/d/1e4oyD-rKnmN5PUfXc7lGyDEPLs2xf2oG/view?usp=sharing)
