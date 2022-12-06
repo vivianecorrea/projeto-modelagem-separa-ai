@@ -79,4 +79,5 @@ Durante a execução utilizamos uma adaptação da metodologia Kanban, utilizand
 Após a conclusão de todos os itens, agrupamos os itens em uma ordem lógica, observe no quadro abaixo: <br>
 ![screenshoot](quadro_trello.png) 
 [Visualizar todos os artefatos no quadro do trello](https://trello.com/b/P8pawnV3/separaai) <br>
-[Ver vídeo de demontração](https://drive.google.com/file/d/1e4oyD-rKnmN5PUfXc7lGyDEPLs2xf2oG/view?usp=sharing)
+[Ver vídeo de demontração](https://drive.google.com/file/d/1e4oyD-rKnmN5PUfXc7lGyDEPLs2xf2oG/view?usp=sharing) <br>
+[Visualizar Apresentação Final](https://docs.google.com/presentation/d/1928o0AbjFowq8ipgAo0DpVZAphINj59s6WhcDXYjAsE/edit?usp=sharing)
