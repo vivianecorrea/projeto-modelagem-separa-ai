@@ -17,8 +17,8 @@ Centro Universitário UNA - Professora: Erica Olivera
 
 ## Artefatos:
 
-- Primeira Versão da Proposta
-- Quadro de atividades no Trello 
+- Primeira Versão da Proposta ✅
+- Quadro de atividades no Trello (Organizar e coloca link aqui) 
 - Roteiro para levantamento de requisitos 
 - Documento Levantamento de Requisitos 
 - Histórias de usuário 
