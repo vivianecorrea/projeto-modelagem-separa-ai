@@ -68,7 +68,7 @@ Centro Universitário UNA - Professora: Erica Olivera
 - Script SQL criação das tabelas no banco 
 - Apresentação Final do Trabalho 
 
-## Visão Geral do 
+## Visão Geral do Trello
 Durante a execução utilizamos uma adaptação da metodologia Kanban, utilizando as  seguintes colunas: 
 - A fazer 
 - Fazendo
