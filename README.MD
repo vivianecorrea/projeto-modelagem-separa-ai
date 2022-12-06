@@ -5,7 +5,7 @@ Centro Universitário UNA - Professora: Erica Olivera
 
 ## Equipe:
 
-- 1 analista de requisitos - Matheus Agler
+- 1 analista de requisitos - Mateus Agler
 - 1 analista de banco de dados - Erick
 - 1 designer - Richard
 - 2 desenvolvedores -Lucas e Matheus Vaz
